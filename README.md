@@ -1,4 +1,4 @@
-![Alt text](/screenshots/1.png "Title")
+![Alt text](screenshots/1.png "Title")
 
 
 
