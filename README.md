@@ -1,7 +1,7 @@
 
 
 
-![image description](/Mohammadjafariyan/test/tree/master/screenshots/1.png)
+![image description](/Mohammadjafariyan/test/blob/master/screenshots/1.PNG)
 
 
 
