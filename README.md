@@ -1,8 +1,7 @@
 
 
 
-![image description](/Mohammadjafariyan/test/blob/master/screenshots/1.PNG)
-
+![image description](/screenshots/1.PNG)
 
 
 
